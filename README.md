@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**WolfenCLI/wolfencli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width= "30%">🌱 What I’m currently learning</td>
+    <td width= "70%">I'm a Computer Science student at the University of Genova<br/>I'm also a beginner in Cyber Security</td>
+  </tr>
+  <tr>
+    <td width= "30%">🔭 What I do</td>
+    <td width= "70%">Whenever I'm not studying or doing homework I usually tinker around with Linux and do personal projects.<br/>If I have free weekends I might try to look for a CTF to practice some hacking</td>
+  </tr>
+</table>
