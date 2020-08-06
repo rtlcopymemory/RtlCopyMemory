@@ -8,3 +8,8 @@
     <td width= "70%">Whenever I'm not studying or doing homework I usually tinker around with Linux and do personal projects.<br/>If I have free weekends I might try to look for a CTF to practice some hacking</td>
   </tr>
 </table>
+
+---
+
+[![WolfenCLI's github stats](https://github-readme-stats.vercel.app/api?username=WolfenCLI&hide=stars,prs,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfenCLI)](https://github.com/anuraghazra/github-readme-stats)
