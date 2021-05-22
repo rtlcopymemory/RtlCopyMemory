@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width= "30%">🌱 What I’m currently learning</td>
-    <td width= "70%">I'm a Computer Science student at the University of Genova<br/>I'm also a beginner in Cyber Security</td>
+    <td width= "70%">I'm a Computer Science student and a beginner in Cyber Security</td>
   </tr>
   <tr>
     <td width= "30%">🔭 What I do</td>
