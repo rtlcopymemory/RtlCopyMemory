@@ -11,5 +11,5 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfenCLI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![WolfenCLI's github stats](https://github-readme-stats.vercel.app/api?username=WolfenCLI&hide=stars,prs,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatOnePizza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ThatOnePizza's github stats](https://github-readme-stats.vercel.app/api?username=ThatOnePizza&hide=stars,prs,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
