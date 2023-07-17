@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td width= "30%">👨‍💻 Programming languages</td>
-    <td width= "70%">C/C++, Python, Java, Javascript, I can read and understand x86 Assembly (as needed for reversing), many others that I've at least used once and can re-learn quickly</td>
+    <td width= "70%">C/C++, Python, Rust, Java, Javascript, I can read and understand x86 Assembly (as needed for reversing), many others that I've at least used once and can re-learn quickly</td>
   </tr>
   <tr>
     <td width= "30%">❤️ I love</td>
