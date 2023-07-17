@@ -18,6 +18,10 @@
     <td width= "30%">👨‍💻 Programming languages</td>
     <td width= "70%">C/C++, Python, Java, Javascript, I can read and understand x86 Assembly (as needed for reversing), many others that I've at least used once and can re-learn quickly</td>
   </tr>
+  <tr>
+    <td width= "30%">❤️ I love</td>
+    <td width= "70%">Anything involving extremely low level software. From manipulating raw memory and playing with pointers to reversing custom assembly code. I'm not afraid to get my hands dirty and cause some crashes</td>
+  </tr>
 </table>
 
 ---
