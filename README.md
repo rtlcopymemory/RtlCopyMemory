@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td width= "30%">🖥️ Learning</td>
-    <td width= "70%">Windows Kernel Drivers - Development + Reversing</td>
+    <td width= "70%">HTB CPTS Path</td>
   </tr>
   <tr>
     <td width= "30%">🧰 Main tools</td>
-    <td width= "70%">Ghidra, VS Code (when having type hints), Neovim/Notepad++ (When not using VS Code), gdb/x64dbg/windbg, sometimes IDA, many others depending on occasion</td>
+    <td width= "70%">Kali, Ghidra, VS Code (when having type hints), Neovim/Notepad++ (When not using VS Code), gdb/x64dbg/windbg, sometimes IDA, many others depending on occasion</td>
   </tr>
   <tr>
     <td width= "30%">📣 Languages</td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td width= "30%">❤️ I love</td>
-    <td width= "70%">Anything involving extremely low level software. From manipulating raw memory and playing with pointers to reversing custom assembly code. I'm not afraid to get my hands dirty and cause some crashes</td>
+    <td width= "70%">Understanding how electronics or computers work, getting to know always lower and lower abstractions so to see the whole picture</td>
   </tr>
 </table>
 
